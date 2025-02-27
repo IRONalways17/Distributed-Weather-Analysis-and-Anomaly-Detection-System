@@ -1,7 +1,7 @@
 
 # Distributed Weather Analysis and Anomaly Detection System - README
 
-```markdown name=Distributed-Weather-System-README.md
+
 # Distributed Weather Analysis and Anomaly Detection System
 
 ## Overview
